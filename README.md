@@ -14,8 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 
 ## This is how it look
-
-![gif](/public/sign-up.gif)
+![gif](https://github.com/emilianochequer/sign-up-app/blob/main/public/sign-up.gif)
 
 ## Deploy on Vercel
 
